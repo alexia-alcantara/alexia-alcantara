@@ -8,11 +8,17 @@ My name is Alléxia Alcantara from Brazil (🇧🇷). I've been working as Front
 In my free time I like to watch movies (🎞️) and series (📺), to read books, (📚), to listen to music (🎵) and podcast (:headphones:) and eventually I like to enjoy life with friends with a beer (🍺).
 
 My skills are:
+
 :heavy_check_mark: HTML5
+
 :heavy_check_mark: CSS3
+
 :heavy_check_mark: JavaScript
+
 :computer: Ruby and Ruby on Rails (in learning)
+
 :computer: Angular (in learning)
+
 :computer: React (in learning)
 
 
