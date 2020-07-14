@@ -1,16 +1,13 @@
-### Hi there 👋
+# Alléxia Alcantara :woman_technologist:
 
-<!--
-**alexia-alcantara/alexia-alcantara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/all%C3%A9xia-alcantara-79126871/)](https://www.linkedin.com/in/all%C3%A9xia-alcantara-79126871/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Alléxia Alcantara from Brazil (🇧🇷). I've been working as Front-End Developer 2018. My dream is to be able to contribute and increase my skills with open source projects, get more knowledge and techniques as a developer.
+
+In my free time I like to watch movies (🎞️) and series (📺), to read books, (📚), to listen to music (🎵) and podcast (:headphones:) and eventually I like to enjoy life with friends with a beer (🍺).
+
+
+
+
+
