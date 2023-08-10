@@ -1,6 +1,6 @@
 # Alléxia Alcantara :woman_technologist:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/all%C3%A9xia-alcantara-79126871/])
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/allexia-alcantara-79126871//])
 
 
 My name is Alléxia Alcantara from Brazil (🇧🇷). I've been working as Front-End Developer 2018. My dream is to be able to contribute and increase my skills with open source projects, get more knowledge and techniques as a developer.
